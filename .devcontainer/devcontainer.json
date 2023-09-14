@@ -17,7 +17,7 @@
 	// "forwardPorts": [],
 
 	// Uncomment the next line to run commands after the container is created.
-	"postCreateCommand": "bun run index.ts",
+	"postCreateCommand": "bun run index.ts"
 	// "customizations": {
 	// 	"vscode": {
 	// 		"extensions": [
