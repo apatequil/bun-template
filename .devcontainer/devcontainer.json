@@ -18,20 +18,13 @@
 
 	// Uncomment the next line to run commands after the container is created.
 	"postCreateCommand": "bun run index.ts",
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"ms-azuretools.vscode-docker",
-				"GitHub.copilot",
-				"GitHub.copilot-chat",
-				"yzhang.markdown-all-in-one",
-				"jebbs.plantuml",
-				"esbenp.prettier-vscode",
-				"Orta.vscode-twoslash-queries",
-				"GitHub.copilot-labs"
-			]
-		}
-	}
+	// "customizations": {
+	// 	"vscode": {
+	// 		"extensions": [
+	// 			"ms-azuretools.vscode-docker",
+	// 		]
+	// 	}
+	// }
 
 	// Configure tool-specific properties.
 	// "customizations": {},
