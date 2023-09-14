@@ -1,1 +1,1 @@
-console.log("Hello to the Bun dev containter. Use 'bun run <file' to begin!");
+console.log("Hello to the Bun dev containter. Use 'bun run <file>' to begin!");
