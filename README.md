@@ -1,4 +1,6 @@
-# validate-everything
+# Bun Repository Template
+Contains dev container configuration so those using VS Code can spin up a dev container with bun and git tooling installed. 
+
 
 To install dependencies:
 
